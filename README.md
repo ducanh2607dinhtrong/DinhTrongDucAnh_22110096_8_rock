@@ -159,10 +159,10 @@ python DinhTrongDucAnh_22110096_8_rock.py
 
 Chọn thuật toán từ menu và nhấn "Tìm lời giải". Kết quả hiển thị số lời giải, điểm và có thể duyệt giữa các lời giải.
 
-Nhúng video minh hoạ (YouTube)
+Video minh hoạ (YouTube)
 
 ```markdown
-[![Xem demo](https://img.youtube.com/vi/zT0aK9ONUds/0.jpg)](https://www.youtube.com/watch?v=zT0aK9ONUds)
+[![Xem demo]](https://www.youtube.com/watch?v=zT0aK9ONUds)
 ```
 
 Ghi chú ngắn
